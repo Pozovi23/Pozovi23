@@ -5,7 +5,7 @@
 
 ## 💻 Проекты
 
-| Проект | Описание |
+| | |
 | --- | --- |
 | [ROS2 AutoRace](https://github.com/Pozovi23/my_robot) | Реализация функционала робота в ROS2 для прохождения модернизированной трассы испытаний AutoRace 2025 <br>Выполнено в рамках университетского курса «Робототехника» |
 | [Автоматизированный мини-пвз](https://github.com/Pozovi23/Pick-up-point-automation) | Конвейерная система, робот-кладовщик (PID, навигация по графу), PostgreSQL, API <br>Выполнено в рамках университетского курса  «Управление производственным процессом разработки ПО»<br>[▶ видео с демонстрацией](https://youtu.be/E9XQAeJRJnU?si=D68Upd1gI2q3Ge20) |
@@ -26,3 +26,15 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Pozovi23/Pozovi23/main/dino-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Pozovi23/Pozovi23/main/dino.svg"
+  />
+  <img alt="Running dino" src="https://raw.githubusercontent.com/Pozovi23/Pozovi23/main/dino.svg" width="560" />
+</picture>
